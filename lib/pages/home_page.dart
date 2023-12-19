@@ -42,7 +42,7 @@ class HomePage extends StatelessWidget {
       Container(
         width: double.infinity,
         height: double.infinity,
-        margin: const EdgeInsets.only(top: 80),
+        margin: const EdgeInsets.only(top: 25, left: 25, right: 25),
         decoration: BoxDecoration(
           color: Colors.grey,
           borderRadius: BorderRadius.circular(20),
